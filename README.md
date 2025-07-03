@@ -32,6 +32,11 @@
 - [Building 'Zeta Halo': Scaling Content Creation for the Largest 'Halo' Ever](https://www.youtube.com/watch?v=cf1FhcvF54E) (2022) by Kurt Diegert and Mikael Nellfors
 - [The Facial Animation Pipeline of 'Marvel's Guardians of the Galaxy'](https://www.youtube.com/watch?v=6bOfLEVy5Qo) (2022) by Simon Habib
 - [Building the World of 'The Ascent'](https://www.youtube.com/watch?v=FodXp5BkENk) (2022) by Tor Frick
+- [Quasar, Brightest in the Galaxy: Expanding 'EVE Online's' Server Potential with gRPC](https://www.youtube.com/watch?v=RR0YTEEMLFg) (2022) by Nicholas Herring
+- [Recalibrating Our Limits: Lighting on 'Ratchet and Clank: Rift Apart'](https://www.youtube.com/watch?v=geErfczxwjc) (2022) by Anna Roan and Brian Mullen
+- [Simulating Tropical Weather in 'Far Cry 6'](https://www.youtube.com/watch?v=mGHCOOnI5aE) (2022) by Emily Zhou and Colin Weick
+- [How to (Not) Create Textures for VFX](https://www.youtube.com/watch?v=KaNDezgsg4M) (2022) by Simon Trumpler
+- [One Frame in 'Halo Infinite'](https://www.youtube.com/watch?v=IUiNUky-ibM) (2022) by Daniele Giannetti
 
 ### A Township Tale VR
 - [Evolving A Township Tale’s VR world streaming tech](https://www.youtube.com/watch?v=jJ_M-3kOzHA) (2022)
