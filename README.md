@@ -19,6 +19,13 @@
 - [Next-gen multiplayer mobile FPS games | MADFINGER Games](https://www.youtube.com/watch?v=a7Okr-ZQCv4) (2019) by Vladimir Zadrazil and Brandi House
 - [Optimizing GPU performance of RAID: Shadow Legends](https://www.youtube.com/watch?v=tsGmWvf7I6c) (2019) by Stanislav Herasymenko
 
+### XR
+- [Post Processing and Rendering in VR with Unity URP: A Shooty Skies Overdrive case study](https://www.youtube.com/watch?v=bl0vKZkzNOs) (2021) by Ryan Keable
+
+### A Township Tale VR
+- [Evolving A Township Tale’s VR world streaming tech](https://www.youtube.com/watch?v=jJ_M-3kOzHA) (2022)
+- [30% lower infrastructure costs and enhanced user experience](https://www.i3d.net/customer-stories/alta/)
+- [Dev Blogs](https://townshiptale.com/news)
 
 ## Unreal Engine
 - [Battle-Testing UE5 Next-Gen Systems with Fortnite](https://www.youtube.com/watch?v=05FCjQR--Sc) (2023) by Paul Mader
@@ -38,7 +45,3 @@
 - [How to (Not) Create Textures for VFX](https://www.youtube.com/watch?v=KaNDezgsg4M) (2022) by Simon Trumpler
 - [One Frame in 'Halo Infinite'](https://www.youtube.com/watch?v=IUiNUky-ibM) (2022) by Daniele Giannetti
 
-### A Township Tale VR
-- [Evolving A Township Tale’s VR world streaming tech](https://www.youtube.com/watch?v=jJ_M-3kOzHA) (2022)
-- [30% lower infrastructure costs and enhanced user experience](https://www.i3d.net/customer-stories/alta/)
-- [Dev Blogs](https://townshiptale.com/news)
