@@ -1,9 +1,11 @@
 # Case Studies
 
+- [Continuous World Generation in No Man's Sky](https://www.youtube.com/watch?v=sCRzxEEcO2Y) (2017) by Innes McKendrick
 - [Asset Systems and Scalability in Destiny](https://www.youtube.com/watch?v=7KXVox0-7lU) (2016) by Chris Butcher
 - [Large-scale Systems Architecture at Naughty Dog](https://www.youtube.com/watch?v=gpINOFQ32o0) (2016) by Jason Gregory
 - [Technical Direction at Blizzard](https://www.youtube.com/watch?v=jyA0csH4KNE) (2016) by Marco Koegler
 - [Diablo II, Warcraft, Guild Wars Networking at HandmadeCon](https://www.youtube.com/watch?v=1faaOrtHJ-A) (2015) by Patt Wyatt
+
 
 ## Unity
 - [Emergency Meeting! It's the 'Among Us VR' Postmortem](https://www.youtube.com/watch?v=m6c3y6MK-AU) (2023) by Jennifer Rabbitt, Michal Ksiazkiewicz, and Shawn Patton 
@@ -45,3 +47,4 @@
 - [How to (Not) Create Textures for VFX](https://www.youtube.com/watch?v=KaNDezgsg4M) (2022) by Simon Trumpler
 - [One Frame in 'Halo Infinite'](https://www.youtube.com/watch?v=IUiNUky-ibM) (2022) by Daniele Giannetti
 
+- [Leveling Up Networking for A Multi-Game Future](https://technology.riotgames.com/news/leveling-networking-multi-game-future) (2021) by Riot Games
