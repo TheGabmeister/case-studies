@@ -48,3 +48,5 @@
 - [One Frame in 'Halo Infinite'](https://www.youtube.com/watch?v=IUiNUky-ibM) (2022) by Daniele Giannetti
 
 - [Leveling Up Networking for A Multi-Game Future](https://technology.riotgames.com/news/leveling-networking-multi-game-future) (2021) by Riot Games
+
+- [Behind the Realm Reborn](https://gdcvault.com/play/1020796/Behind-the-Realm) (2014) by Naoki Yoshida
