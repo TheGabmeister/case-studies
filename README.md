@@ -50,6 +50,7 @@
 - [Leveling Up Networking for A Multi-Game Future](https://technology.riotgames.com/news/leveling-networking-multi-game-future) (2021) by Riot Games
 
 - [Behind the Realm Reborn](https://gdcvault.com/play/1020796/Behind-the-Realm) (2014) by Naoki Yoshida
+- [Yoshida Uncensored translations](https://blog.kouhi.me/)
 
 ### Star Wars Galaxies
 - [Classic Game Postmortem: 'Star Wars Galaxies'](https://www.youtube.com/watch?v=djJO1XSOwuI) (2021) by Raph Koster and Richard Vogel
